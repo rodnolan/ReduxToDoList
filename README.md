@@ -1,2 +1,0 @@
-# ReduxToDoList
-Created with CodeSandbox
